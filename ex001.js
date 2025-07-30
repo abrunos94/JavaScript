@@ -11,4 +11,4 @@ function exemplovar(){
 }
 
 // Chamando a função exemplovar
-exemplovar()
+exemplovar();
